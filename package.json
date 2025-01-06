@@ -1,0 +1,14 @@
+{
+  "name": "class_1_node",
+  "version": "1.0.0",
+  "main": "class1node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
